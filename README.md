@@ -1,9 +1,7 @@
 # kafka Spark-Streaming Example
 
-## how to run
-
-### 1. clone this project
-### 2. prepare kafka
+## 1. clone this project
+## 2. prepare kafka
 
 start kafka docker
 ```shell
